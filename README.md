@@ -7,10 +7,6 @@
   <a href="https://twitter.com/andrew Stiefel">Twitter</a>
 </p>
 
-### Recent posts
-<!--START_SECTION:feed-->
-<!--END_SECTION:feed-->
-
 ### Get in touch
 * [Send me an email](mailto:andrew@andrewstiefel.com)
 * [Find me on Twitter](https://twitter.com/andrewstiefel)
