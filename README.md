@@ -8,9 +8,9 @@
 </p>
 
 ### Recent posts
-<!--START_SECTION:feed-->
+<!--START_SECTION:posts-->
 ...
-<!--END_SECTION:feed-->
+<!--END_SECTION:posts-->
 
 ### Get in touch
 * [Send me an email](mailto:andrew@andrewstiefel.com)
