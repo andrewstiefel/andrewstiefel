@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hello! I'm Andrew Stiefel.</h3>
 
-<p align="center">I'm a product marketing manager based in Seattle, WA.</p>
+<p align="center">I'm a product marketer based in Seattle, WA.</p>
 
 <p align="center">
   <a href="https://andrewstiefel.com">Blog</a> •
