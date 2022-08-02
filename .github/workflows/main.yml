@@ -12,5 +12,6 @@ jobs:
         with:
           url: 'https://andrewstiefel.com/feed.xml'
           file: 'README.md'
+          format: '- [${title}](${url})'
       - if: ${{ steps.feed.outputs.changed == true }}
         uses: sarisia/actions-commit@master
