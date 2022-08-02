@@ -1,4 +1,4 @@
-name: Update this repo's README
+name: Actions Readme Feed
 
 on:
   schedule:
@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: sarisia/actions-readme-feed@v1
+      - uses: sarisia/actions-readme-feed@v1.7.0
         id: feed
         with:
           url: 'https://note.sarisia.cc/index.xml'
