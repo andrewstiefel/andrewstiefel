@@ -4,7 +4,8 @@
 
 <p align="center">
   <a href="https://andrewstiefel.com">Blog</a> •
-  <a href="https://twitter.com/andrew Stiefel">Twitter</a>
+  <a href="https://twitter.com/andrewstiefel">Twitter</a> •
+  <a href="https://www.linkedin.com/andrewstiefel">LinkedIn</a>
 </p>
 
 ### Latest Posts
