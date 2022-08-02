@@ -9,11 +9,11 @@
 
 ### Latest Posts
 <!-- feed start -->
-- Oct 12 - [Gmail から iCloud カスタムドメインメールを扱えなかった](https://note.sarisia.cc/entry/you-cannot-gmailify-icloud-customdomain/)
-- Jan 03 - [Slash CommandsでサーバレスなDiscordアプリを作る](https://note.sarisia.cc/entry/discord-slash-commands/)
-- Nov 19 - [はてブを見たくない人のためのChrome拡張を作った](https://note.sarisia.cc/entry/no-hatena-bookmark/)
-- Oct 07 - [GitHub Codespaces カスタマイズのコツ](https://note.sarisia.cc/entry/customizing-codespaces/)
-- Sep 27 - [GitHub Actions ランタイムを多言語化するアクションを作った](https://note.sarisia.cc/entry/github-actions-setup-icu/)
+- Jun 28 - [Just Start](https://andrewstiefel.com/just-start/)
+- Jun 22 - [Why is Storytelling Important for B2B Marketing?](https://andrewstiefel.com/storytelling-important-B2B-marketing/)
+- Jun 21 - [How to Differentiate Your Product When You Aren’t (Really) Different](https://andrewstiefel.com/differentiate-product-competition/)
+- May 25 - [Networking Tips for Remote and Hybird Work](https://andrewstiefel.com/networking-tips-remote-hybrid-job/)
+- Jan 24 - [How to Style an Atom Feed with XSLT](https://andrewstiefel.com/style-atom-xsl/)
 <!-- feed end -->
 
 ### Get in touch
