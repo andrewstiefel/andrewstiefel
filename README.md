@@ -7,9 +7,9 @@
   <a href="https://twitter.com/andrew Stiefel">Twitter</a>
 </p>
 
-### Recent posts
-* [How to Style an Atom Feed with XSLT](https://andrewstiefel.com/style-atom-xsl/)
-* [How I Built My Blog with Jekyll and Netlify](https://andrewstiefel.com/blog-jekyll-netlify/)
+### Latest Posts
+<!-- feed start -->
+<!-- feed end -->
 
 ### Get in touch
 * [Send me an email](mailto:andrew@andrewstiefel.com)
