@@ -10,11 +10,11 @@
 
 ### Latest Posts
 <!-- feed start -->
+- [Build an Email Subscription Form with Netlify Functions](https://andrewstiefel.com/netlify-functions-email-subscription/)
 - [Just Start](https://andrewstiefel.com/just-start/)
 - [Why is Storytelling Important for B2B Marketing?](https://andrewstiefel.com/storytelling-important-B2B-marketing/)
 - [How to Differentiate Your Product When You Aren’t (Really) Different](https://andrewstiefel.com/differentiate-product-competition/)
 - [Networking Tips for Remote and Hybird Work](https://andrewstiefel.com/networking-tips-remote-hybrid-job/)
-- [How to Style an Atom Feed with XSLT](https://andrewstiefel.com/style-atom-xsl/)
 <!-- feed end -->
 
 ### Get in touch
