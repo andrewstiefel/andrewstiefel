@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://andrewstiefel.com">Blog</a> •
-  <a href="https://twitter.com/andrewstiefel">Twitter</a> •
-  <a href="https://www.linkedin.com/andrewstiefel">LinkedIn</a>
+  <a href="https://andrewstiefel.com/newsletter">Newsletter</a> •
+  <a href="https://andrewstiefel.com/feed.xml">RSS</a>
 </p>
 
 ### Latest Posts
@@ -19,4 +19,4 @@
 
 ### Get in touch
 * [Send me an email](mailto:andrew@andrewstiefel.com)
-* [Find me on Twitter](https://twitter.com/andrewstiefel)
+* [Connect on LinkedIn](https://www.linkedin.com/in/andrewstiefel/)
