@@ -10,11 +10,11 @@
 
 ### Latest Posts
 <!-- feed start -->
+- [Pocket Guide to Privacy-First Email Newsletter Software](https://andrewstiefel.com/privacy-first-email-newsletter-software/)
 - [Tools I'm Using Right Now](https://andrewstiefel.com/tools/)
 - [Build an Email Subscription Form with Netlify Functions](https://andrewstiefel.com/netlify-functions-email-subscription/)
 - [Just Start](https://andrewstiefel.com/just-start/)
 - [Why is Storytelling Important for B2B Marketing?](https://andrewstiefel.com/storytelling-important-B2B-marketing/)
-- [How to Differentiate Your Product When You Aren’t (Really) Different](https://andrewstiefel.com/differentiate-product-competition/)
 <!-- feed end -->
 
 ### Get in touch
