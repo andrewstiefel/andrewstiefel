@@ -10,11 +10,11 @@
 
 ### Latest Posts
 <!-- feed start -->
+- [Writing for Technical Audiences](https://andrewstiefel.com/writing-technical-audiences/)
 - [Some Thoughts on Open-Ended Writing](https://andrewstiefel.com/some-thoughts-open-ended-writing/)
 - [Pocket Guide to Privacy-First Email Newsletter Software](https://andrewstiefel.com/privacy-first-email-newsletter-software/)
 - [Tools I'm Using Right Now](https://andrewstiefel.com/tools/)
 - [Build an Email Subscription Form with Netlify Functions](https://andrewstiefel.com/netlify-functions-email-subscription/)
-- [Just Start](https://andrewstiefel.com/just-start/)
 <!-- feed end -->
 
 ### Get in touch
