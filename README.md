@@ -10,11 +10,11 @@
 
 ### Latest Posts
 <!-- feed start -->
+- [Working with Multiple GitHub Accounts and SSH Keys](https://andrewstiefel.com/working-multiple-github-accounts/)
 - [Thoughts on Information Fidelity and Transmission](https://andrewstiefel.com/information-fidelity-transmission/)
 - [Writing for Technical Audiences](https://andrewstiefel.com/writing-technical-audiences/)
 - [Some Thoughts on Open-Ended Writing](https://andrewstiefel.com/some-thoughts-open-ended-writing/)
 - [Pocket Guide to Privacy-First Email Newsletter Software](https://andrewstiefel.com/privacy-first-email-newsletter-software/)
-- [Tools I'm Using Right Now](https://andrewstiefel.com/tools/)
 <!-- feed end -->
 
 ### Get in touch
