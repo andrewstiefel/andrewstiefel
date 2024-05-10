@@ -1,6 +1,5 @@
 name: Actions Readme Feed
 
-on: workflow_dispatch
 on:
   schedule:
     - cron: '0 */6 * * *'
