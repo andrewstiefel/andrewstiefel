@@ -10,11 +10,11 @@
 
 ### Latest Posts
 <!-- feed start -->
+- [The Myth of the Average User](https://andrewstiefel.com/myth-average-user/)
+- [Weighing in on AI Hype and Risk](https://andrewstiefel.com/ai-hype-risk/)
 - [How to Strategically Package New Product Features](https://andrewstiefel.com/pricing-packaging-innovation/)
 - [Working with Multiple GitHub Accounts and SSH Keys](https://andrewstiefel.com/working-multiple-github-accounts/)
 - [Thoughts on Information Fidelity and Transmission](https://andrewstiefel.com/information-fidelity-transmission/)
-- [Writing for Technical Audiences](https://andrewstiefel.com/writing-technical-audiences/)
-- [Some Thoughts on Open-Ended Writing](https://andrewstiefel.com/some-thoughts-open-ended-writing/)
 <!-- feed end -->
 
 ### Get in touch
