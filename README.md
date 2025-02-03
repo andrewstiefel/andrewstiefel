@@ -10,11 +10,11 @@
 
 ### Latest Posts
 <!-- feed start -->
+- [How I Use GitHub as a CMS for My Blog](https://andrewstiefel.com/github-cms-blog/)
 - [Markdown Files, Not Apps](https://andrewstiefel.com/markdown-files-not-apps/)
 - [Principles of Platform Independence](https://andrewstiefel.com/principles-platform-independence/)
 - [Dead Internet is No Longer a Theory](https://andrewstiefel.com/dead-internet-theory-real/)
 - [The Myth of the Average User](https://andrewstiefel.com/myth-average-user/)
-- [Weighing in on AI Hype and Risk](https://andrewstiefel.com/ai-hype-risk/)
 <!-- feed end -->
 
 ### Get in touch
