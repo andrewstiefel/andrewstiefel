@@ -10,7 +10,7 @@
 
 ### Latest Posts
 <!-- feed start -->
-- [How I Use GitHub as a CMS for My Blog](https://andrewstiefel.com/github-cms-blog/)
+- [How I Use GitHub as a CMS](https://andrewstiefel.com/github-cms-blog/)
 - [Markdown Files, Not Apps](https://andrewstiefel.com/markdown-files-not-apps/)
 - [Principles of Platform Independence](https://andrewstiefel.com/principles-platform-independence/)
 - [Dead Internet is No Longer a Theory](https://andrewstiefel.com/dead-internet-theory-real/)
