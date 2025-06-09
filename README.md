@@ -19,4 +19,4 @@
 
 ### Get in touch
 * [Send me an email](mailto:andrew@andrewstiefel.com)
-* [Follow on Mastodon](https://mas.to/@andrewstiefel)
+* [Connect on LinkedIn](https://www.linkedin.com/in/andrewstiefel)
