@@ -10,7 +10,7 @@
 
 ### Latest Posts
 <!-- feed start -->
-- [Building a Personal Monorepo for Writing](https://andrewstiefel.com/monorepo)
+- [Building a Personal Monorepo for Writing](https://andrewstiefel.com/monorepo/)
 - [AI Isn't Taking Your Job – The Economy Is](https://andrewstiefel.com/ai-layoff-myth/)
 - [How I Use GitHub as a CMS](https://andrewstiefel.com/github-cms-blog/)
 - [Markdown Files, Not Apps](https://andrewstiefel.com/markdown-files-not-apps/)
